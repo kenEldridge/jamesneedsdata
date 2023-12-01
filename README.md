@@ -1,4 +1,4 @@
-# jamesneedsdata
+# james needs data
 
 ## shitty instructions
  1. copy sample.env to .env and use your own api key
